@@ -1,3 +1,6 @@
 [submodule "CheatSheets"]
 	path = CheatSheets
 	url = https://github.com/RaniK27/CheatSheets.git
+[submodule "OOPS.code"]
+	path = OOPS.code
+	url = https://github.com/RaniK27/OOPS.code.git
