@@ -7,3 +7,6 @@
 [submodule "Advanced-DSA"]
 	path = Advanced-DSA
 	url = https://github.com/RaniK27/Advanced-DSA.git
+[submodule "Hacktoberfest-2022-Repos"]
+	path = Hacktoberfest-2022-Repos
+	url = https://github.com/RaniK27/Hacktoberfest-2022-Repos.git
