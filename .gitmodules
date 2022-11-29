@@ -1,0 +1,3 @@
+[submodule "CheatSheets"]
+	path = CheatSheets
+	url = https://github.com/RaniK27/CheatSheets.git
